@@ -18,11 +18,22 @@
 
 ### 👩‍💻 About Me
 
-- 🔎 I turn messy datasets into clear, actionable insights
-- 🛠️ Recently built an end-to-end **Medallion Architecture ETL pipeline** on Databricks and analyzed **123K+ job postings** across 24K+ companies
-- 📊 Comfortable across the full analytics stack — from writing SQL queries to building interactive Power BI dashboards to training ML models in Python
-- 🌱 Currently exploring the **Google Data Analytics Professional Certificate**
-- 💬 Ask me about SQL window functions, DAX, or Power Query
+👩‍💻 Data Analyst | Aspiring Analytics Engineer
+
+🔎 Transforming raw data into meaningful business insights through analytics and visualization
+
+⚙️ Built production-style ETL pipelines using Databricks Medallion Architecture (Bronze → Silver → Gold)
+
+📊 Analyzed 123K+ job postings across 24K+ companies to uncover hiring and salary trends
+
+🗄️ Skilled in SQL (Joins, CTEs, Window Functions), Python, Power BI, Excel, and Databricks
+
+📈 Building interactive dashboards and scalable data solutions for data-driven decision making
+
+☁️ Exploring Apache Spark, Lakehouse Architecture, and modern data engineering workflows
+
+🌱 Currently expanding my expertise in analytics engineering and cloud data platforms
+
 
 ---
 
