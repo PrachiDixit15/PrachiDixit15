@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prachi Dixit</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=440&lines=Data+Analyst+%7C+SQL+%2B+Power+BI+%2B+Python;Turning+raw+data+into+decisions;Open+to+Data+Analyst+roles+in+NCR" />
-</p>
+<h3 align="center">Data Analyst | Turning raw data into decisions</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PrachiDixit15&color=0A66C2&style=flat&label=Profile+Views" />
@@ -84,14 +81,6 @@ Production-style Bronze-Silver-Gold ETL pipeline using Databricks Lakeflow Decla
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrachiDixit15&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PrachiDixit15/PrachiDixit15/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
