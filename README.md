@@ -2,10 +2,6 @@
 <h3 align="center">Data Analyst | Turning raw data into decisions</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrachiDixit15&color=0A66C2&style=flat&label=Profile+Views" />
-</p>
-
-<p align="center">
   📍 Delhi NCR &nbsp;|&nbsp; 🔍 Open to Data Analyst roles &nbsp;|&nbsp; 🎯 SQL · Power BI · Python
 </p>
 
