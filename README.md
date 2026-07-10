@@ -68,4 +68,12 @@ Production-style Bronze-Silver-Gold ETL pipeline using Databricks Lakeflow Decla
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PrachiDixit15&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
 <p align="center"><i>Thanks for stopping by — let's connect if you're hiring for Data Analyst roles in NCR!</i></p>
